@@ -15,6 +15,6 @@ ONLY_GROUP: process.env.ONLY_GROUP || 'false',
 ANTI_LINK: process.env.ANTI_LINK || 'false' ,
 ANTI_BOT: process.env.ANTI_BOT || 'false',
 ALIVE: process.env.ALIVE || `default`,
-FOOTER: process.env.FOOTER ||  '©𝚉𝙴𝚁𝙾-𝚃𝚆𝙾 𝙼𝙳',
+FOOTER: process.env.FOOTER ||  'Here Nigga',
 LOGO: process.env.LOGO || `https://github.com/vihangayt0/ZeroTwo-Uploads/blob/main/ZERO-TWO.png?raw=true` 
 };
